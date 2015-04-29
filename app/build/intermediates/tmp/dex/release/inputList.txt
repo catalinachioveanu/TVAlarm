@@ -1,0 +1,1 @@
+C:\Users\catalina\AndroidStudioProjects\TVAlarm\app\build\intermediates\classes-proguard\release\classes.jar

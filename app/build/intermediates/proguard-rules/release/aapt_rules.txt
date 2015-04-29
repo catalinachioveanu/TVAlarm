@@ -1,0 +1,26 @@
+# view AndroidManifest.xml #generated:34
+-keep class com.tv.alarm.AlarmDetailsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.tv.alarm.AlarmListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.tv.alarm.AlarmManagerHelper { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.tv.alarm.AlarmScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.tv.alarm.AlarmService { <init>(...); }
+
+# view res/layout/activity_details.xml #generated:108
+# view res/layout/activity_details.xml #generated:133
+# view res/layout/activity_details.xml #generated:158
+# view res/layout/activity_details.xml #generated:183
+# view res/layout/activity_details.xml #generated:209
+# view res/layout/activity_details.xml #generated:32
+# view res/layout/activity_details.xml #generated:57
+# view res/layout/activity_details.xml #generated:82
+# view res/layout/alarm_list_item.xml #generated:86
+-keep class com.tv.alarm.CustomToggle { <init>(...); }
+

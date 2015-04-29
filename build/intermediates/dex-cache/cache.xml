@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\catalina\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\catalina\AndroidStudioProjects\TVAlarm\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-9dca4a1289a3f932848f3bddcca7c77d7aa1db10.jar" />
+    </item>
+    <item
+        jar="C:\Users\catalina\.gradle\caches\modules-2\files-2.1\com.facebook.rebound\rebound\0.3.7\da23f0d13a0a572e01a1b53b547cbdc7a5b52209\rebound-0.3.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="da23f0d13a0a572e01a1b53b547cbdc7a5b52209">
+        <dex dex="C:\Users\catalina\AndroidStudioProjects\TVAlarm\app\build\intermediates\pre-dexed\release\rebound-0.3.7-f2c9d3866138956213595e618213c62ea50453a5.jar" />
+    </item>
+
+</items>

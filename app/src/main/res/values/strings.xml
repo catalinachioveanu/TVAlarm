@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TV Alarm</string>
+
+    <string name="details_repeat_weekly">Repeat weekly</string>
+    <string name="details_sunday">Sunday</string>
+    <string name="details_monday">Monday</string>
+    <string name="details_tuesday">Tuesday</string>
+    <string name="details_wednesday">Wednesday</string>
+    <string name="details_thursday">Thursday</string>
+    <string name="details_friday">Friday</string>
+    <string name="details_saturday">Saturday</string>
+
+</resources>
